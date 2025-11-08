@@ -1,4 +1,6 @@
-Breakout Game (Arduino + Embedded System) 📘 Project Description
+Breakout Game (Arduino + Embedded System)
+
+📘 Project Description
 
 This project is developed as part of an Embedded Systems C Programming assignment. We were required to design a C-program that runs an application on an embedded system using at least three inputs and producing at least three different outputs.
 
